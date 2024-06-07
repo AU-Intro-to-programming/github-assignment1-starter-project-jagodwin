@@ -1,6 +1,6 @@
 # Return Hello World!
 def hello()
-    return "Hello
+    return "Hello world"
 
 
 # Return Hello World! with a newline char
